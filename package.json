@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "ts": "tsc",
+    "dev": "vite",
+    "fix": "xo --fix",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4",
+    "typescript": "5.9.3",
+    "vite": "^7.2.4",
+    "xo": "^1.2.3"
+  }
+}
