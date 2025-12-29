@@ -1,0 +1,6 @@
+export * from './arrays'
+export * from './generate-id'
+export * from './check-death'
+export * from './is-fighter'
+export * from './filter-alive'
+export * from './get-damage'
